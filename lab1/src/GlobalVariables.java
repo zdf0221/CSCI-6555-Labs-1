@@ -2,8 +2,8 @@ import com.jogamp.opengl.GL2;
 
 public class GlobalVariables {
 
-    public static final int WIDTH = 1920;
-    public static final int HEIGHT = 1080;
+    public static final int WIDTH = 400;
+    public static final int HEIGHT = 400;
     public static final int pointNum = 7;
 
 

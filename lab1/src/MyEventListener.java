@@ -43,8 +43,6 @@ public class MyEventListener implements GLEventListener {
         Quaternion m = Function.qInterpolation("Catmull-Rom Spline",t,pointIndex);//Quaternion Catmull Rom Spline
         if(m!=null) {
             gl.glLoadMatrixf(m.toOneDMatrix(), 0);
-            for (int i = 0; i < m.toOneDMatrix().length; i++)
-                System.out.println(m.toOneDMatrix()[i]);
         }
         glut.glutSolidTeapot(1.0f);//render
 
