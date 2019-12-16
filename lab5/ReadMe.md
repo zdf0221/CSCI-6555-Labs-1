@@ -7,7 +7,7 @@ Email: mayflywing@gwu.edu
 # Solution
 The fountain sprays a random number of particles at every time stamp. Each particle has a random initial position and speed. When the particle exists for more than a certain time, it will die out, and the particle will bounce slightly when it hits the ground.
 Use Poiseuille flow equation to simulate the fountain.
-## To generate on particle:
+## To generate one particle:
 ### Step 1:
 Randomly pick a position within the circumference of the fountain pipe.
 ### Step 2:
