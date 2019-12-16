@@ -29,11 +29,11 @@ public class GlobalVariables {
     //the first 3 numbers represent x_angle, y_angle, z_angle in Euler angle
     // and the rest 3 numbers represent the position x,y,z in world Cartesian System
     public static final float[][] points = {
-            { 90, 0, 45, -5, 0, -5 },
+            { 90, 0, 45, -5, 0, -10 },
             { 70, 20, 65, -3, 3, -10 },
             { 50, 40, 85, -1, 1, -15 },
-            { 30, 60, 105, 0, -5, -20 },
-            { 50, 40, 85, 1, 1, -15 },
+            { 30, 65, 65, 0, -5, -20 },
+            { 50, 80, 70, 1, -5, -15 },
             { 70, 20, 65, 3, 3, -10 },
             { 90, 0, 45, 5, 0, -5 }
     };

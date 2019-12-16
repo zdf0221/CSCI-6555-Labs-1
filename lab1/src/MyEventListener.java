@@ -23,7 +23,7 @@ public class MyEventListener implements GLEventListener {
         gl.glEnable(GLLightingFunc.GL_NORMALIZE);
         gl.glFrontFace(GL2.GL_CW);
         gl.glCullFace(GL2.GL_BACK); // default
-        gl.glMaterialf(GL2.GL_FRONT, GLLightingFunc.GL_SHININESS, 64.0f);
+        gl.glMaterialf(GL2.GL_FRONT, GLLightingFunc.GL_SHININESS, 40.0f);
         gl.glTexParameterf(GL2.GL_TEXTURE_2D, GL2.GL_TEXTURE_WRAP_S, GL2.GL_REPEAT);
     }
 
@@ -46,7 +46,7 @@ public class MyEventListener implements GLEventListener {
             for (int i = 0; i < m.toOneDMatrix().length; i++)
                 System.out.println(m.toOneDMatrix()[i]);
         }
-        glut.glutSolidTeapot(1.0f);//render
+        glut.glutSolidTeapot(1.5f);//render
 
         gl.glFlush();
 
