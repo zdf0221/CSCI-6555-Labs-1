@@ -4,11 +4,11 @@ public class Balls {
     Ball[] balls;
 
     //coefficient of collision: velocity after collision would reduce to 0.8 of original volecity
-    float energyLoss = 0.8f;
+    float energyLoss = 0.95f;
     // time increase by 0.03
     float timeIncrease = 0.03f;
     // gravity acceleration simulation: velocity along -y axis would in crease 2.0 units in every 0.03 time increasement
-    float[] acceleration = { 0, -2.0f, 0 };
+    float[] acceleration = { 0, -5.0f, 0 };
 
     public Balls(int number){
         this.number = number;

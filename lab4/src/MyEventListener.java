@@ -30,11 +30,12 @@ public class MyEventListener implements GLEventListener {
         //gl.glMaterialf(GL2.GL_FRONT, GLLightingFunc.GL_SHININESS, 64.0f);
         //gl.glTexParameterf(GL2.GL_TEXTURE_2D, GL2.GL_TEXTURE_WRAP_S, GL2.GL_REPEAT);
 
+
         gl.glEnable(GLLightingFunc.GL_LIGHTING);
         gl.glEnable(GLLightingFunc.GL_LIGHT0);
         // light source attributes
-        float[] LightAmbient = { 0.5f, 0f, 0.f, 1.0f };
-        float[] LightDiffuse = { 0.4f, 0.4f, 0.4f, 1.0f };
+        float[] LightAmbient = { 0.5f, 0.5f, 0.5f, 1.0f };
+        float[] LightDiffuse = { 0.5f, 0.5f, 0.5f, 1.0f };
         float[] LightSpecular = { 0.5f, 0.5f, 0.5f, 1.0f };
         float[] LightPosition = { 5.0f, 5.0f, 5.0f, 1.0f };
 
@@ -43,6 +44,7 @@ public class MyEventListener implements GLEventListener {
         gl.glLightfv(GL2.GL_LIGHT0, GL2.GL_DIFFUSE, LightDiffuse,0);
         gl.glLightfv(GL2.GL_LIGHT0, GL2.GL_SPECULAR, LightSpecular,0);
         gl.glLightfv(GL2.GL_LIGHT0, GL2.GL_POSITION, LightPosition,0);
+
 
         // surface material attributes
         float[] material_Ka = {1.0f, 1.0f, 0.0f, 1.0f };
@@ -56,6 +58,7 @@ public class MyEventListener implements GLEventListener {
         gl.glMaterialfv(GL2.GL_FRONT, GL2.GL_SPECULAR, material_Ks,0);
         gl.glMaterialfv(GL2.GL_FRONT, GL2.GL_EMISSION, material_Ke,0);
         gl.glMaterialf(GL2.GL_FRONT, GL2.GL_SHININESS, material_Se);
+
     }
 
     @Override
@@ -78,7 +81,7 @@ public class MyEventListener implements GLEventListener {
             boids.leaderBoid.Matrix = m.toMatrix();
         }
         gl.glMultMatrixf(boids.leaderBoid.toOneDMatrix(),0);
-        glut.glutSolidCube(1.0f);
+        glut.glutSolidSphere(1, 50, 50 );
         gl.glPopMatrix();
 
         //render other boids
@@ -86,14 +89,14 @@ public class MyEventListener implements GLEventListener {
             boids.boidAnimator(i);
             gl.glPushMatrix();
             gl.glMultMatrixf(boids.boids[i].toOneDMatrix(),0);
-            glut.glutSolidSphere(0.3,20,20);
+            glut.glutSolidTeapot(0.2);
             gl.glPopMatrix();
         }
 
         gl.glFlush();
 
         // Set time increase by 0.01
-        t = t + 0.01f;
+        t = t + 0.02f;
         if (t >= 1)
         {
             t = 0;

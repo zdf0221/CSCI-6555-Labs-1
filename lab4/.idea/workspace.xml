@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7becf18c-fa7e-47b3-84ca-77cb420d15dd" name="Default Changelist" comment="" />
+    <list default="true" id="7becf18c-fa7e-47b3-84ca-77cb420d15dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/libraries/jogl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/libraries/jogl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/EulerAngle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/EulerAngle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/Function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/GlobalVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/GlobalVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/HierarchicalObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/HierarchicalObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/LeftLeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/LeftLeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/MyEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/MyEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/Quaternion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/Quaternion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/RightLeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/RightLeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/out/production/lab2/Torso.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/out/production/lab2/Torso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/src/GlobalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/GlobalVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/src/HierarchicalObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/HierarchicalObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/src/MyEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/MyEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/libraries/jogl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/libraries/jogl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/out/production/lab3/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/Ball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/out/production/lab3/Balls.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/Balls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/out/production/lab3/Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/Function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/out/production/lab3/GlobalVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/GlobalVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/out/production/lab3/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/out/production/lab3/MyEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/MyEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/out/production/lab3/PhysicsBased.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/PhysicsBased.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/Balls.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/src/Balls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/GlobalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/src/GlobalVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/MyEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/src/MyEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/PhysicsBased.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/src/PhysicsBased.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jogl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jogl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/Behavioral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab4/Behavioral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/Boid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab4/Boid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/Boids.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab4/Boids.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/EulerAngle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab4/EulerAngle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab4/Function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/GlobalVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab4/GlobalVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/MyEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab4/MyEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab4/Quaternion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab4/Quaternion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Behavioral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GlobalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GlobalVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyEventListener.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,13 +54,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1794119377">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="85" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Behavioral.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="193">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -23,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyEventListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="68" column="38" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
+            <state relative-caret-position="378">
+              <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Function.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1978">
+            <state relative-caret-position="558">
               <caret line="94" column="43" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="43" />
               <folding>
                 <element signature="method#displayProduct#0;class#Function#0" />
@@ -50,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GlobalVariables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" selection-start-line="24" selection-end-line="44" selection-end-column="36" />
+            <state relative-caret-position="-324">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -59,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Boid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
+            <state relative-caret-position="81">
               <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
             </state>
           </provider>
@@ -68,7 +135,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Boids.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2507">
+            <state relative-caret-position="328">
               <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
             </state>
           </provider>
@@ -77,7 +144,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EulerAngle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1334">
+            <state relative-caret-position="1566">
               <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
             </state>
           </provider>
@@ -86,7 +153,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Quaternion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
+            <state relative-caret-position="729">
               <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
             </state>
           </provider>
@@ -100,6 +167,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -115,12 +185,18 @@
         <option value="$PROJECT_DIR$/src/Quaternion.java" />
         <option value="$PROJECT_DIR$/src/Function.java" />
         <option value="$PROJECT_DIR$/src/Boid.java" />
-        <option value="$PROJECT_DIR$/src/Behavioral.java" />
-        <option value="$PROJECT_DIR$/src/GlobalVariables.java" />
         <option value="$PROJECT_DIR$/src/Boids.java" />
+        <option value="$PROJECT_DIR$/src/GlobalVariables.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral.java" />
         <option value="$PROJECT_DIR$/src/MyEventListener.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -128,18 +204,20 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="110" />
-    <option name="y" value="787" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2032" />
+    <option name="y" value="-11" />
     <option name="width" value="2750" />
-    <option name="height" value="1685" />
+    <option name="height" value="1460" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,12 +234,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575986174928" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project5/lab5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576639203002" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab5" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -202,14 +282,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569448740641</updated>
+      <workItem from="1576637650763" duration="48000" />
+      <workItem from="1576637770761" duration="1384000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1432000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="315" width="1100" height="674" extended-state="0" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="top" id="Maven" order="0" weight="0.32944608" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25287357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36940297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -218,7 +303,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2813411" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28121606" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34115806" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,6 +312,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3265306" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,7 +320,15 @@
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ReadMe.md">
@@ -247,9 +341,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/EulerAngle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quaternion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Boids.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Boid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GlobalVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Function.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1978">
+        <state relative-caret-position="558">
           <caret line="94" column="43" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="43" />
           <folding>
             <element signature="method#displayProduct#0;class#Function#0" />
@@ -257,55 +396,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GlobalVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" selection-start-line="24" selection-end-line="44" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Boids.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2507">
-          <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EulerAngle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1334">
-          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Quaternion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyEventListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="68" column="38" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Boid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="378">
+          <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -353,7 +447,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -365,7 +459,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lab1</last-edited>
+          <last-edited>lab4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

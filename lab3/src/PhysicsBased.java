@@ -20,7 +20,7 @@ public class PhysicsBased {
         glcanvas.setSize( GlobalVariables.WIDTH, GlobalVariables.HEIGHT );
         //creating frame
 
-        final JFrame frame = new JFrame ( "Lab3 Physics-Based Motion Control System by Chuchu Jin" );
+        final JFrame frame = new JFrame ( "Lab3 Physical Based collision" );
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);//when close the frame, exit the program
 
         //adding canvas to it

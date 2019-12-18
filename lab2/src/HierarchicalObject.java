@@ -20,7 +20,7 @@ public class HierarchicalObject {
         glcanvas.setSize( GlobalVariables.WIDTH, GlobalVariables.HEIGHT );
         //creating frame
 
-        final JFrame frame = new JFrame ( "Lab2 Hierarchical Object Motion Control System by Chuchu Jin" );
+        final JFrame frame = new JFrame ( "Lab2 - Hierarchical Object" );
         frame.setLocationRelativeTo(null);//show the frame in the center of the screen
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);//when close the frame, exit the program
 

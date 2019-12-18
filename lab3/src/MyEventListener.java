@@ -41,10 +41,8 @@ public class MyEventListener implements GLEventListener {
 
         gl.glMatrixMode(GL2.GL_MODELVIEW);
         gl.glLoadIdentity();
-        glu.gluLookAt(30f, 30.0f, -20f,
-                0.0, 0.0, 0.0,
-                0.0, 1.0, 0.0);
 
+        glu.gluLookAt(30, 30, -30,0.0, 0.0, 0.0,0.0, 1.0, 0.0);
 
 
         //render the ground
@@ -72,7 +70,7 @@ public class MyEventListener implements GLEventListener {
 
         //render the front wall
         gl.glColor3f(1f,1.0f,1f);
-        for (float y = 0; y <= 100; y += 0.25f)
+        for (float y = 0; y <= 100; y += 5f)
         {
             gl.glVertex3f(-30,y,30); gl.glVertex3f(30, y, 30);
         }
@@ -84,7 +82,7 @@ public class MyEventListener implements GLEventListener {
         //render the left wall
         gl.glColor3f(0.0f,0f,1f);
 
-        for (float y = 0; y <= 100; y += 0.25f)
+        for (float y = 0; y <= 100; y += 5f)
         {
             gl.glVertex3f(-30,y,-30); gl.glVertex3f(-30, y, 30);
         }
@@ -94,7 +92,7 @@ public class MyEventListener implements GLEventListener {
         }
 
         //render the right wall
-        for (float y = 0; y <= 100; y += 0.25f)
+        for (float y = 0; y <= 100; y += 5f)
         {
             gl.glVertex3f(30,y,-30); gl.glVertex3f(30, y, 30);
         }
@@ -110,6 +108,7 @@ public class MyEventListener implements GLEventListener {
         gl.glEnable(GLLightingFunc.GL_LIGHTING);
         gl.glEnable(GLLightingFunc.GL_LIGHT0);
         // light source attributes
+        /*
         float[] LightAmbient = { 0.5f, 0f, 0.f, 1.0f };
         float[] LightDiffuse = { 0.4f, 0.4f, 0.4f, 1.0f };
         float[] LightSpecular = { 0.5f, 0.5f, 0.5f, 1.0f };
@@ -121,6 +120,7 @@ public class MyEventListener implements GLEventListener {
         gl.glLightfv(GL2.GL_LIGHT0, GL2.GL_SPECULAR, LightSpecular,0);
         gl.glLightfv(GL2.GL_LIGHT0, GL2.GL_POSITION, LightPosition,0);
 
+        */
         // surface material attributes
         float[] material_Ka = {1.0f, 1.0f, 0.0f, 1.0f };
         float[] material_Kd = { 0.43f, 0.47f, 0.54f, 1.0f };
@@ -140,7 +140,7 @@ public class MyEventListener implements GLEventListener {
             gl.glPushMatrix();
             balls.ballAnimator(i);
             gl.glMultMatrixf(balls.balls[i].toOneDMatrix(),0);
-            glut.glutSolidSphere(0.5, 20, 20);
+            glut.glutSolidSphere(1, 50, 50);
             gl.glPopMatrix();
         }
 

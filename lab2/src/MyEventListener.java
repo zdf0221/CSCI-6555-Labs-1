@@ -32,6 +32,7 @@ public class MyEventListener implements GLEventListener {
         gl.glTexParameterf(GL2.GL_TEXTURE_2D, GL2.GL_TEXTURE_WRAP_S, GL2.GL_REPEAT);
 
         // light source attributes
+        /*
         float[] LightAmbient = { 1f, 0f, 0f, 1.0f };
         float[] LightDiffuse = { 1f, 0f, 0f, 1.0f };
         float[] LightSpecular = { 0.0f, 0.0f, 0.0f, 1.0f };
@@ -43,18 +44,21 @@ public class MyEventListener implements GLEventListener {
         gl.glLightfv(GL2.GL_LIGHT0, GL2.GL_SPECULAR, LightSpecular,0);
         gl.glLightfv(GL2.GL_LIGHT0, GL2.GL_POSITION, LightPosition,0);
 
+        */
         // surface material attributes
-        float[] material_Ka = {1.0f, 1.0f, 0.0f, 1.0f };
-        float[] material_Kd = { 0.43f, 0.47f, 0.54f, 1.0f };
-        float[] material_Ks = { 0.33f, 0.33f, 0.52f, 1.0f };
-        float[] material_Ke = { 0.1f, 0.0f, 0.1f, 1.0f };
-        float material_Se = 10;
+
+        float[] material_Ka = {0.3f, 0.0f, 0.0f, 1.0f };
+        float[] material_Kd = { 0.6f, 0.57f, 0.11f, 1.0f };
+        float[] material_Ks = { 0.8f, 0.6f, 0.6f, 1.0f };
+        //float[] material_Ke = { 0.1f, 0.0f, 0.1f, 1.0f };
+        float material_Se = 100;
 
         gl.glMaterialfv(GL2.GL_FRONT, GL2.GL_AMBIENT, material_Ka,0);
         gl.glMaterialfv(GL2.GL_FRONT, GL2.GL_DIFFUSE, material_Kd,0);
         gl.glMaterialfv(GL2.GL_FRONT, GL2.GL_SPECULAR, material_Ks,0);
-        gl.glMaterialfv(GL2.GL_FRONT, GL2.GL_EMISSION, material_Ke,0);
+        //gl.glMaterialfv(GL2.GL_FRONT, GL2.GL_EMISSION, material_Ke,0);
         gl.glMaterialf(GL2.GL_FRONT, GL2.GL_SHININESS, material_Se);
+
 
     }
 

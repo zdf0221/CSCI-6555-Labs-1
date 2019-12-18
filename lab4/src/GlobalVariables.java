@@ -1,7 +1,7 @@
 public class GlobalVariables {
 
-    public static final int WIDTH = 800;
-    public static final int HEIGHT = 600;
+    public static final int WIDTH = 1920;
+    public static final int HEIGHT = 1080;
 
 
     // The Catmull Rom Spline M Matrix
